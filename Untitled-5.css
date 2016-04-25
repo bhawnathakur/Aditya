@@ -1,0 +1,32 @@
+#container{
+	background:#D72E31;
+	padding-left:50px;
+margin-left:50px;
+	text-decoration:underline;
+	
+}
+
+#contain{
+float:right;
+text-decoration:underline;	
+margin-left:50px;
+	
+	
+	
+}
+#list{
+	
+margin-left:50px;	
+	
+	
+	
+}
+.cont1{
+	padding-left:50px;
+	margin-left:50px;
+	
+	
+float:left;
+	display:inline;	
+	
+}
